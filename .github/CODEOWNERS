@@ -1,5 +1,5 @@
 # github_path_test/ @mars167 @mars167-test sunjinhui167@163.com
-CODEOWNERS @mars167
-** @mars167-test @yijiumuse
-me/* @yijiumuse
+# CODEOWNERS @mars167
+# ** @mars167-test @yijiumuse
+# me/* @yijiumuse
 docs/* @mars167
