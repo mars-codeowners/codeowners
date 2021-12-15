@@ -2,4 +2,4 @@
 # CODEOWNERS @mars167
 # ** @mars167-test @yijiumuse
 # me/* @yijiumuse
-/me/* @mars167
+me/ @mars167
